@@ -36,39 +36,35 @@ A comprehensive ASP.NET Web Forms application built with VB.NET, designed to str
 
 
 ## Screenshots
-**🏠 Dashboard**
+- **🏠 Dashboard**
+  - Visual overview of key statistics and data trends.
 
-Visual overview of key statistics and data trends.
+- **👨‍🎓 Student Management**
+  - Add, update, or delete student records easily.
 
-**👨‍🎓 Student Management**
-
-Add, update, or delete student records easily.
-
-**📚 Course Management**
-
-Maintain course data and details.
-
-**📝 Enrollment Management**
-
-Assign students to courses and manage registration.
+- **📚 Course Management**
+  - Maintain course data and details.
+    
+- **📝 Enrollment Management**
+  - Assign students to courses and manage registration.
 
 ## Technology Stack
-**Backend:** ASP.NET Web Forms (VB.NET)
+- **Backend:** ASP.NET Web Forms (VB.NET)
 
-**Frontend:** HTML5, CSS3, JavaScript, Bootstrap 5, Bootstrap Icons
+- **Frontend:** HTML5, CSS3, JavaScript, Bootstrap 5, Bootstrap Icons
 
-**Database:** PostgreSQL (via Supabase)
+- **Database:** PostgreSQL (via Supabase)
 
-**Data Visualization:** Chart.js
+- **Data Visualization:** Chart.js
 
 ## Database Schema
-**students**
+- **students**
 (id, first_name, last_name, email, enrollment_date)
 
-**courses**
+- **courses**
 (course_id, course_name, ects, hours, format, instructor)
 
-**enrollments**
+- **enrollments**
 (enrollment_id, student_id, course_id, enrollment_date)
 
 ## Installation
@@ -139,10 +135,10 @@ MyStudentInformationSystem/
 - Monthly enrollment activity
 
 ## Project Information
-**Course:** Generative AI Programming
+- **Course:** Generative AI Programming
 
-**University:** University of St. Gallen (HSG)
+- **University:** University of St. Gallen (HSG)
 
-**Student:** Arthur Mazaudier
+- **Student:** Arthur Mazaudier
 
-**Year:** 2025
+- **Year:** 2025
