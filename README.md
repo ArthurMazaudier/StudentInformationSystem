@@ -1,4 +1,5 @@
 Student Information System
+
 A comprehensive ASP.NET Web Forms application built with VB.NET, designed to streamline the management of student records, course catalogs, and enrollment processes. Developed as part of the Generative AI Programming course at the University of St. Gallen, this system provides an intuitive, data-driven interface for academic administrators.
 
 📑 Table of Contents
