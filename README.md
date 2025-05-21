@@ -36,7 +36,10 @@ A comprehensive ASP.NET Web Forms application built with VB.NET, designed to str
 
 
 ## Screenshots
-- **🏠 Dashboard**
+- **🏠 Home Page**
+  - A clean landing page with navigation, call-to-action buttons, and quick access to student system modules.
+
+- **📊 Dashboard**
   - Visual overview of key statistics and data trends.
 
 - **👨‍🎓 Student Management**
