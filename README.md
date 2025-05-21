@@ -34,22 +34,68 @@ A comprehensive ASP.NET Web Forms application built with VB.NET, designed to str
 - **Responsive UI:**
   - Clean, modern layout powered by Bootstrap 5 for cross-device compatibility.
 
-
 ## Screenshots
+
 - **🏠 Home Page**
   - A clean landing page with navigation, call-to-action buttons, and quick access to student system modules.
+  - [Home screenshot 1](./Screenshots/Home%20screenshot%201.png)
+  - [Home screenshot 2](./Screenshots/Home%20screenshot%202.png)
+  - [Home screenshot 3](./Screenshots/Home%20screenshot%203.png)
 
 - **📊 Dashboard**
-  - Visual overview of key statistics and data trends.
+  - Visual overview of key statistics, including student/course/enrollment metrics and trends.
+  - [Dashboard screenshot 1](./Screenshots/Dashboard%20screenshot%201.png)
+  - [Dashboard screenshot 2](./Screenshots/Dashboard%20screenshot%202.png)
 
 - **👨‍🎓 Student Management**
-  - Add, update, or delete student records easily.
+  - Add, update, or delete student records in a simple and intuitive interface.
+  - [Manage Students screenshot 1](./Screenshots/Manage%20Students%20screenshot%201.png)
+  - [Manage Students screenshot 2](./Screenshots/Manage%20Students%20screenshot%202.png)
+  - [Manage Students screenshot 3](./Screenshots/Manage%20Students%20screenshot%203.png)
 
 - **📚 Course Management**
-  - Maintain course data and details.
-    
+  - Create and edit course details such as name, format, hours, and instructor.
+  - [Manage Courses screenshot 1](./Screenshots/Manage%20Courses%20screenshot%201.png)
+  - [Manage Courses screenshot 2](./Screenshots/Manage%20Courses%20screenshot%202.png)
+  - [Manage Courses screenshot 3](./Screenshots/Manage%20Courses%20screenshot%203.png)
+
 - **📝 Enrollment Management**
-  - Assign students to courses and manage registration.
+  - Enroll students into courses with proper validation and date selection.
+  - [Manage Enrollments screenshot 1](./Screenshots/Manage%20Enrollments%20screenshot%201.png)
+
+- **🎓 My Enrollments**
+  - Overview of enrolled courses and enrollment history per student.
+  - [My Enrollments screenshot 1](./Screenshots/My%20Enrollments%20screenshot%201.png)
+  - [My Enrollments screenshot 2](./Screenshots/My%20Enrollments%20screenshot%202.png)
+  - [My Enrollments screenshot 3](./Screenshots/My%20Enrollments%20screenshot%203.png)
+
+- **👤 Profile Page**
+  - User profile page for managing account settings and personal information.
+  - [Profile screenshot 1](./Screenshots/Profile%20screenshot%201.png)
+
+- **🧰 Tools Section**
+  - Various admin tools and utilities for managing and monitoring the platform.
+  - [Tools screenshot 1](./Screenshots/Tools%20screenshot%201.png)
+  - [Tools screenshot 2](./Screenshots/Tools%20screenshot%202.png)
+  - [Tools screenshot 3](./Screenshots/Tools%20screenshot%203.png)
+  - [Tools screenshot 4](./Screenshots/Tools%20screenshot%204.png)
+  - [Tools screenshot 5](./Screenshots/Tools%20screenshot%205.png)
+  - [Tools screenshot 6](./Screenshots/Tools%20screenshot%206.png)
+
+- **🕹️ MiniGames Section**
+  - A fun arcade zone with retro-style mini-games to boost user engagement.
+  - [MiniGames screenshot 1](./Screenshots/MiniGames%20screenshot%201.png)
+  - [MiniGames screenshot 2](./Screenshots/MiniGames%20screenshot%202.png)
+  - [MiniGames screenshot 3](./Screenshots/MiniGames%20screenshot%203.png)
+  - [MiniGames screenshot 4](./Screenshots/MiniGames%20screenshot%204.png)
+
+- **ℹ️ About & Contact Pages**
+  - Basic information about the system and a contact form with integrated map.
+  - [About screenshot 1](./Screenshots/About%20screenshot%201.png)
+  - [About screenshot 2](./Screenshots/About%20screenshot%202.png)
+  - [About screenshot 3](./Screenshots/About%20screenshot%203.png)
+  - [Contact screenshot 1](./Screenshots/Contact%20screenshot%201.png)
+  - [Contact screenshot 2](./Screenshots/Contact%20screenshot%202.png)
 
 ## Technology Stack
 - **Backend:** ASP.NET Web Forms (VB.NET)
