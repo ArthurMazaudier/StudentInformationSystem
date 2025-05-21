@@ -82,7 +82,7 @@ Update your Supabase database credentials in Web.config
 Build and run the project
 
 ## Project Structure
-'''
+```
 MyStudentInformationSystem/
 ├── Dashboard.aspx # Analytics dashboard
 ├── ManageStudents.aspx # Student CRUD operations
@@ -102,7 +102,7 @@ MyStudentInformationSystem/
 ├── screenshots/ # Project screenshots (add this folder)
 ├── Web.config # Configuration file
 └── MyStudentInformationSystem.sln # Solution file 
-'''
+```
 ## Usage Guide
 **🧑‍🎓 Managing Students**
 - Go to Manage Students
