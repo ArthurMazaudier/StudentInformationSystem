@@ -74,7 +74,7 @@ A comprehensive ASP.NET Web Forms application built with VB.NET, designed to str
   - [Profile screenshot 1](./Screenshots/Profile%20screenshot%201.png)
 
 - **🧰 Tools Section**
-  - Various admin tools and utilities for managing and monitoring the platform.
+  - Grade Calculator Tool & Student Loan Management Tool.
   - [Tools screenshot 1](./Screenshots/Tools%20screenshot%201.png)
   - [Tools screenshot 2](./Screenshots/Tools%20screenshot%202.png)
   - [Tools screenshot 3](./Screenshots/Tools%20screenshot%203.png)
