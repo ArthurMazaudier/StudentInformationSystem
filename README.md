@@ -82,17 +82,27 @@ Update your Supabase database credentials in Web.config
 Build and run the project
 
 ## Project Structure
-<pre> ```
-/StudentInformationSystem
-│
-├── App_Code/             → Backend logic (.vb files)
-├── App_Data/             → Local database (if used)
-├── Pages/                → ASPX pages for UI (Students, Courses, Enrollments, Dashboard)
-├── Assets/               → Images, stylesheets, JavaScript
-│   └── screenshots/      → Project screenshots
-├── Web.config            → Configuration (DB connection, authentication, etc.)
-└── MyStudentInformationSystem.sln → Visual Studio solution file``` 
-</pre>
+'''
+MyStudentInformationSystem/
+├── Dashboard.aspx # Analytics dashboard
+├── ManageStudents.aspx # Student CRUD operations
+├── ManageCourses.aspx # Course CRUD operations
+├── ManageEnrollments.aspx # Enrollment management
+├── About.aspx # About page
+├── Contact.aspx # Contact information
+├── Profile.aspx # User profile management
+├── Tools/ # Utility tools section
+│ └── (various tool pages)
+├── Games/ # Mini-games for engagement
+│ └── (game components)
+├── Site.Master # Master page template
+├── Content/ # CSS and styling files
+├── Scripts/ # JavaScript files
+│ └── easter-egg.js # Easter egg implementation
+├── screenshots/ # Project screenshots (add this folder)
+├── Web.config # Configuration file
+└── MyStudentInformationSystem.sln # Solution file 
+'''
 ## Usage Guide
 **🧑‍🎓 Managing Students**
 - Go to Manage Students
