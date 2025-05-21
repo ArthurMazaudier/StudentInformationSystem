@@ -12,7 +12,7 @@ A comprehensive ASP.NET Web Forms application built with VB.NET, designed to str
 - [📘 Usage Guide](#usage-guide)  
 - [ℹ️ Project Information](#project-information)  
 
-## 🎯 Features
+## Features
 - **Student Management:**
   - Full CRUD operations for student data (name, email, enrollment date).
 - **Course Management:**
@@ -26,7 +26,7 @@ A comprehensive ASP.NET Web Forms application built with VB.NET, designed to str
 - **Responsive UI:**
   - Clean, modern layout powered by Bootstrap 5 for cross-device compatibility.
 
-## 📸 Screenshots
+## Screenshots
 **🏠 Dashboard**
 
 Visual overview of key statistics and data trends.
@@ -43,7 +43,7 @@ Maintain course data and details.
 
 Assign students to courses and manage registration.
 
-## 🧰 Technology Stack
+## Technology Stack
 **Backend:** ASP.NET Web Forms (VB.NET)
 
 **Frontend:** HTML5, CSS3, JavaScript, Bootstrap 5, Bootstrap Icons
@@ -52,7 +52,7 @@ Assign students to courses and manage registration.
 
 **Data Visualization:** Chart.js
 
-## 🗃️ Database Schema
+## Database Schema
 **students**
 (id, first_name, last_name, email, enrollment_date)
 
@@ -62,7 +62,7 @@ Assign students to courses and manage registration.
 **enrollments**
 (enrollment_id, student_id, course_id, enrollment_date)
 
-## 🛠️ Installation
+## Installation
 **Prerequisites**
 - Visual Studio 2022 (or compatible)
 
@@ -81,7 +81,7 @@ Update your Supabase database credentials in Web.config
 
 Build and run the project
 
-## 🗂️ Project Structure
+## Project Structure
 bash
 Copier
 Modifier
@@ -94,7 +94,7 @@ Modifier
 │   └── /screenshots/      # Project screenshots
 ├── Web.config             # Configuration (DB connection, authentication, etc.)
 ├── MyStudentInformationSystem.sln  # Solution file
-## 📘 Usage Guide
+## Usage Guide
 **🧑‍🎓 Managing Students**
 - Go to Manage Students
 - Enter student details: ID, name, email, enrollment date
@@ -120,7 +120,7 @@ Modifier
 - ECTS distribution
 - Monthly enrollment activity
 
-## ℹ️ Project Information
+## Project Information
 **Course:** Generative AI Programming
 
 **University:** University of St. Gallen (HSG)
