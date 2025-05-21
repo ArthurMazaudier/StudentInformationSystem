@@ -13,6 +13,7 @@ A comprehensive ASP.NET Web Forms application built with VB.NET, designed to str
 - [ℹ️ Project Information](#project-information)  
 
 ## Features
+```
 - **Student Management:**
   - Full CRUD operations for student data (name, email, enrollment date).
 - **Course Management:**
@@ -23,8 +24,17 @@ A comprehensive ASP.NET Web Forms application built with VB.NET, designed to str
   - Overview of student/course/enrollment metrics.
 - **Data Visualization:**
   - Interactive charts for enrollments, ECTS distribution, and trends using Chart.js.
+- **User Profiles:**
+  - Personalized user experiences with profile management.
+- **Utility Tools:**
+  - Helpful resources and utility tools for system users.
+- **Interactive Features:**
+  - Mini-games and hidden easter eggs for user engagement.
+- **About & Contact Pages:**
+  - Information about the system and contact details.
 - **Responsive UI:**
   - Clean, modern layout powered by Bootstrap 5 for cross-device compatibility.
+```
 
 ## Screenshots
 **🏠 Dashboard**
