@@ -13,7 +13,6 @@ A comprehensive ASP.NET Web Forms application built with VB.NET, designed to str
 - [ℹ️ Project Information](#project-information)  
 
 ## Features
-```
 - **Student Management:**
   - Full CRUD operations for student data (name, email, enrollment date).
 - **Course Management:**
@@ -34,7 +33,7 @@ A comprehensive ASP.NET Web Forms application built with VB.NET, designed to str
   - Information about the system and contact details.
 - **Responsive UI:**
   - Clean, modern layout powered by Bootstrap 5 for cross-device compatibility.
-```
+
 
 ## Screenshots
 **🏠 Dashboard**
