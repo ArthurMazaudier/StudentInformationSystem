@@ -82,18 +82,17 @@ Update your Supabase database credentials in Web.config
 Build and run the project
 
 ## Project Structure
-bash
-Copier
-Modifier
+<pre> ```
 /StudentInformationSystem
 │
-├── /App_Code/             # Backend logic (.vb files)
-├── /App_Data/             # Local database (if used)
-├── /Pages/                # ASPX pages for UI (Students, Courses, Enrollments, Dashboard)
-├── /Assets/               # Images, stylesheets, JS
-│   └── /screenshots/      # Project screenshots
-├── Web.config             # Configuration (DB connection, authentication, etc.)
-├── MyStudentInformationSystem.sln  # Solution file
+├── App_Code/             → Backend logic (.vb files)
+├── App_Data/             → Local database (if used)
+├── Pages/                → ASPX pages for UI (Students, Courses, Enrollments, Dashboard)
+├── Assets/               → Images, stylesheets, JavaScript
+│   └── screenshots/      → Project screenshots
+├── Web.config            → Configuration (DB connection, authentication, etc.)
+└── MyStudentInformationSystem.sln → Visual Studio solution file``` 
+</pre>
 ## Usage Guide
 **🧑‍🎓 Managing Students**
 - Go to Manage Students
