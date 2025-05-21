@@ -1,26 +1,18 @@
-Student Information System
+# Student Information System
 
 A comprehensive ASP.NET Web Forms application built with VB.NET, designed to streamline the management of student records, course catalogs, and enrollment processes. Developed as part of the Generative AI Programming course at the University of St. Gallen, this system provides an intuitive, data-driven interface for academic administrators.
 
-📑 Table of Contents
-🎯 Features
+# 📑 Table of Contents
+- [🎯 Features](#features)  
+- [📸 Screenshots](#screenshots)  
+- [🧰 Technology Stack](#technology-stack)  
+- [🗃️ Database Schema](#database-schema)  
+- [🛠️ Installation](#installation)  
+- [🗂️ Project Structure](#project-structure)  
+- [📘 Usage Guide](#usage-guide)  
+- [ℹ️ Project Information](#project-information)  
 
-📸 Screenshots
-
-🧰 Technology Stack
-
-🗃️ Database Schema
-
-🛠️ Installation
-
-🗂️ Project Structure
-
-📘 Usage Guide
-
-ℹ️ Project Information
-
-
-🎯 Features
+## 🎯 Features
 Student Management: Full CRUD operations for student data (name, email, enrollment date).
 
 Course Management: Tools for creating and editing courses (name, ECTS, hours, format, instructor).
@@ -33,7 +25,7 @@ Data Visualization: Interactive charts for enrollments, ECTS distribution, and t
 
 Responsive UI: Clean, modern layout powered by Bootstrap 5 for cross-device compatibility.
 
-📸 Screenshots
+## 📸 Screenshots
 🏠 Dashboard
 
 Visual overview of key statistics and data trends.
@@ -50,7 +42,7 @@ Maintain course data and details.
 
 Assign students to courses and manage registration.
 
-🧰 Technology Stack
+## 🧰 Technology Stack
 Backend: ASP.NET Web Forms (VB.NET)
 
 Frontend: HTML5, CSS3, JavaScript, Bootstrap 5, Bootstrap Icons
@@ -59,7 +51,7 @@ Database: PostgreSQL (via Supabase)
 
 Data Visualization: Chart.js
 
-🗃️ Database Schema
+## 🗃️ Database Schema
 students
 (id, first_name, last_name, email, enrollment_date)
 
@@ -69,7 +61,7 @@ courses
 enrollments
 (enrollment_id, student_id, course_id, enrollment_date)
 
-🛠️ Installation
+## 🛠️ Installation
 Prerequisites
 Visual Studio 2022 (or compatible)
 
@@ -88,7 +80,7 @@ Update your Supabase database credentials in Web.config
 
 Build and run the project
 
-🗂️ Project Structure
+## 🗂️ Project Structure
 bash
 Copier
 Modifier
@@ -101,7 +93,7 @@ Modifier
 │   └── /screenshots/      # Project screenshots
 ├── Web.config             # Configuration (DB connection, authentication, etc.)
 ├── MyStudentInformationSystem.sln  # Solution file
-📘 Usage Guide
+## 📘 Usage Guide
 🧑‍🎓 Managing Students
 Go to Manage Students
 
@@ -140,7 +132,7 @@ ECTS distribution
 
 Monthly enrollment activity
 
-ℹ️ Project Information
+## ℹ️ Project Information
 Course: Generative AI Programming
 
 University: University of St. Gallen (HSG)
